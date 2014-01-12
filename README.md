@@ -8,8 +8,8 @@ by [this pretty cool dev](https://twitter.com/cliffmeyers).
 
 In an existing git project (right after `git init`):
 
- 1. `git remote add skeleton https://github.com/bericp1/skeleton`
- 2. `git pull skeleton master`
+ 1. `git remote add seed https://github.com/bericp1/not-a-sock-drawer`
+ 2. `git pull seed master`
   * Change `master` to `master:dev` if you want to develop on a `dev` branch
  3. `npm install`
  4. `grunt setup`
